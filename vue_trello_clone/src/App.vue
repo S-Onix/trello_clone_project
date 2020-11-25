@@ -2,7 +2,9 @@
   <div id="app">
     {{msg}}
     test
+    <router-view></router-view>
   </div>
+  
 </template>
 
 <script>
